@@ -31,7 +31,7 @@ DATE=$(today)
 > "$OUTPUT"
 echo "==============================================" >> "$OUTPUT"
 echo "  OPEN SOURCE MANIFESTO"                       >> "$OUTPUT"
-echo "  Author : Shristy Kumari (24BAI10711)"        >> "$OUTPUT"
+echo "  Author : Sania Nasreen (24BAI10761)"        >> "$OUTPUT"
 echo "  Date   : $DATE"                              >> "$OUTPUT"
 echo "  Audit  : Mozilla Firefox"                    >> "$OUTPUT"
 echo "----------------------------------------------" >> "$OUTPUT"
