@@ -2,7 +2,7 @@
 PACKAGE="firefox"
 echo "=============================================="
 echo "         FOSS PACKAGE INSPECTOR"
-echo "       Student: Shristy Kumari | 24BAI10711"
+echo "       Student: Sania Nasreen | 24BAI10761"
 echo "=============================================="
 echo ""
 echo "  Inspecting package : $PACKAGE"
